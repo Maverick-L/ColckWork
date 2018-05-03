@@ -1,0 +1,10 @@
+E:\C#\ClockWork\ClockWork\bin\Debug\ClockWork.exe.config
+E:\C#\ClockWork\ClockWork\bin\Debug\ClockWork.exe
+E:\C#\ClockWork\ClockWork\bin\Debug\ClockWork.pdb
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.csprojResolveAssemblyReference.cache
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.ClockWork.resources
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.Properties.Resources.resources
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.csproj.GenerateResource.cache
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.csproj.CoreCompileInputs.cache
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.exe
+E:\C#\ClockWork\ClockWork\obj\Debug\ClockWork.pdb
